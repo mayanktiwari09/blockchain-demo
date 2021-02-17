@@ -1,0 +1,50 @@
+server:
+  port: 8080
+
+factservice:
+  host: localhost:8081
+
+factservice1:
+  host: localhost:8071
+
+factservice2:
+  host: localhost:8061
+
+factservice3:
+  host: localhost:8051
+
+factservice4:
+  host: localhost:8041
+
+factservice5:
+  host: localhost:8031
+
+factservice6:
+  host: localhost:8021
+
+factservice7:
+  host: localhost:8011
+
+fibservice:
+  host: localhost:8082
+
+fibservice1:
+  host: localhost:8072
+
+fibservice2:
+  host: localhost:8062
+
+fibservice3:
+  host: localhost:8052
+
+fibservice4:
+  host: localhost:8042
+
+fibservice5:
+  host: localhost:8032
+
+fibservice6:
+  host: localhost:8022
+
+fibservice7:
+  host: localhost:8012

@@ -1,0 +1,19 @@
+server:
+  port: 8000
+
+factservice:
+  host: localhost:8081
+
+fibservice:
+  host: localhost:8082
+
+computeservice:
+  host: localhost:8080
+
+opentracing:
+  jaeger:
+    service-name: ProxyService
+    enabled: TRUE
+    udp-sender:
+      host: localhost
+

@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+opentracing:
+  jaeger:
+    service-name: FactService
+    enabled: TRUE
+    udp-sender:
+      host: localhost

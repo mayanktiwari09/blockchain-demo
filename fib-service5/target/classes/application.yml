@@ -1,0 +1,9 @@
+server:
+  port: 8032
+
+opentracing:
+  jaeger:
+    service-name: FibService5
+    enabled: TRUE
+    udp-sender:
+      host: localhost
