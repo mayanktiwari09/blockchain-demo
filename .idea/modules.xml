@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common-util/common-util.iml" filepath="$PROJECT_DIR$/common-util/common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compute-service/compute-service.iml" filepath="$PROJECT_DIR$/compute-service/compute-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fact-service6/fact-service6.iml" filepath="$PROJECT_DIR$/fact-service6/fact-service6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fact-service7/fact-service7.iml" filepath="$PROJECT_DIR$/fact-service7/fact-service7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fib-service6/fib-service6.iml" filepath="$PROJECT_DIR$/fib-service6/fib-service6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fib-service7/fib-service7.iml" filepath="$PROJECT_DIR$/fib-service7/fib-service7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/math-service.iml" filepath="$PROJECT_DIR$/math-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />
+    </modules>
+  </component>
+</project>

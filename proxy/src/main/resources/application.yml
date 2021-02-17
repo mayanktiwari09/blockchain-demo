@@ -1,12 +1,6 @@
 server:
   port: 8000
 
-factservice:
-  host: localhost:8081
-
-fibservice:
-  host: localhost:8082
-
 computeservice:
   host: localhost:8080
 
